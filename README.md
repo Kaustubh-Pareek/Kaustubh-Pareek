@@ -24,5 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Kaustubh-Pareek&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub Snake](https://github.com/Kaustubh-Pareek/Kaustubh-Pareek/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Kaustubh-Pareek/Kaustubh-Pareek/output/github-contribution-grid-snake.svg)
+
 
